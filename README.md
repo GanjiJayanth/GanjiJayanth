@@ -52,11 +52,6 @@ A fitness tracking system for BMI, calories, and workout history.
 
 ---
 
-## 🏅 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=GanjiJayanth&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📊 GitHub Stats
 
@@ -73,11 +68,11 @@ A fitness tracking system for BMI, calories, and workout history.
 
 ## 🌐 Coding Platforms
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/yourusername)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ganji_jayanth)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jayanthganji)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Jayanth1278)
 
-> 🔄 Replace `yourusername` with your actual handles.
+
 
 ---
 

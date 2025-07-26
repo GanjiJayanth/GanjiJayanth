@@ -1,8 +1,7 @@
-## Hi there 👋
 
 # 👋 Hi there! I'm Ganji Jayanth
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ganjijayanth) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ganji-jayanth) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/GanjiJayanth)
 [![Gmail](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:jayanthganji.netha@gmail.com)
 
@@ -56,8 +55,6 @@ A gym management system that tracks BMI, calorie intake, and fitness stats for u
 📱 Phone: +91 8074085251  
 📍 Location: Hyderabad, Telangana, India
 
----
 
-## ⚡ Fun Fact  
-I enjoy exploring the intersection of software development and AI to create useful tools for society!
+
 

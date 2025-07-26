@@ -54,17 +54,12 @@ A fitness tracking system for BMI, calories, and workout history.
 
 
 ## 📊 GitHub Stats
-
-![Ganji's GitHub stats](https://github-readme-stats.vercel.app/api?username=GanjiJayanth&show_icons=true&theme=radical)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GanjiJayanth&layout=compact&theme=radical)
 
 ---
 
-## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GanjiJayanth&theme=radical&border_radius=5)](https://git.io/streak-stats)
-
----
 
 ## 🌐 Coding Platforms
 

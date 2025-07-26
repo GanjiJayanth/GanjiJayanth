@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ganji Jayanth
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ganjijayanth) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ganji-jayanth) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/GanjiJayanth)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:jayanthganji.netha@gmail.com)
 
